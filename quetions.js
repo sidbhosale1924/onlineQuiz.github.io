@@ -41,8 +41,8 @@ let quetions = [
         options : [ 
                    "Your name and telephone number only",
                    "Your email address only, if it doesn't include your name",
-                   "Minor details, like the name of your school and what your parents do for a living",
-                   "You should never share ANY personal information with someone you don't know"
+                   "You should never share ANY personal information with someone you don't know",
+                   "Minor details, like the name of your school and what your parents do for a living"
                 ]
     },
     {
@@ -50,10 +50,11 @@ let quetions = [
         quetion : "As part of your current project you need to upload code to customer provided code repository on cloud. Which of the following will you NOT do?",
         answer : "Upload test data to the cloud repository",
         options : [ 
+                   "Upload test data to the cloud repository",
                    "Inform the Delivery manager and seek advice",
                    "Will not upload the test data to the cloud repository.",
-                   "Check for appropriate access to the cloud repository folder",
-                   "Upload test data to the cloud repository"
+                   "Check for appropriate access to the cloud repository folder"
+                   
                 ]
     },
 ];
