@@ -52,7 +52,7 @@ let quetions = [
         options : [ 
                    "Upload test data to the cloud repository",
                    "Inform the Delivery manager and seek advice",
-                   "Will not upload the test data to the cloud repository.",
+                   "Will not upload the test data to the cloud repository",
                    "Check for appropriate access to the cloud repository folder"
                    
                 ]
