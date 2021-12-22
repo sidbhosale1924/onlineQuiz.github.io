@@ -54,7 +54,6 @@ let quetions = [
                    "Web Uploads",
                    "Email/Webmail",
                    "All of above"
-                   
-                ]
+                   ]
     }
 ];
