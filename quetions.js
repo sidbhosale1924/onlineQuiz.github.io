@@ -3,58 +3,58 @@
 let quetions = [
     {
         numb : 1,
-        quetion : "Data leakage threats do not usually occur from which of the following?",
-        answer : "Television",
+        quetion : "What is data loss?",
+        answer : "Information is destroyed by failures or neglect in storage",
         options : [
-                   "Web and email",
-                   "Mobile data storage",
-                   "USB drives and laptops",
-                   "Television"
+                   "Breaking of data",
+                   "Information is destroyed by failures or neglect in storage",
+                   "Storing of data",
+                   "Arranging data"
                 ]
     },
     {
         numb : 2,
-        quetion : "What are the impacts of DLP?",
-        answer : "All of Above",
+        quetion : "How to prevent data loss?",
+        answer : "Back up data regularly",
         options : [
-                   "Contractual violation",
-                   "Trust & Relationship impact",
-                   "Monetary penalty ",
-                   "All of Above"
+                   "Update the software",
+                   "Use cookies",
+                   "Back up data regularly",
+                   "Buy a new computer"
                 ]
     },
     {
         numb : 3,
-        quetion : "What are the reasons of DLP?",
-        answer : "All of Above",
+        quetion : "DLP can detect and monitor?",
+        answer : "Emailing business information to personal enail ID",
         options : [
-                   "Copying data from the client domain",
-                   "Emailing business information to personal email ids",
-                   "Uploading business information / IP on the web",
+                   "Emailing business information to personal enail ID",
+                   "Project specific discussion in meeting room",
+                   "Confedential discusion with client over mobile phone",
                    "All of Above"
                 ]
     },
     {
         numb : 4,
-        quetion : "What type of personal information is it okay to share with someone you don't know?",
-        answer : "You should never share ANY personal information with someone you don't know",
+        quetion : "DLP can detect and monitor?",
+        answer : "Data transfer to external storage media(EX. USB, CD/DVD)",
         options : [ 
                    "Your name and telephone number only",
                    "Your email address only, if it doesn't include your name",
-                   "You should never share ANY personal information with someone you don't know",
+                   "Data transfer to external storage media(EX. USB, CD/DVD)",
                    "Minor details, like the name of your school and what your parents do for a living"
                 ]
     },
     {
         numb : 5,
-        quetion : "As part of your current project you need to upload code to customer provided code repository on cloud. Which of the following will you NOT do?",
-        answer : "Upload test data to the cloud repository",
+        quetion : "What are the various scope consider while DLP?",
+        answer : "All of above",
         options : [ 
-                   "Upload test data to the cloud repository",
-                   "Inform the Delivery manager and seek advice",
-                   "Will not upload the test data to the cloud repository",
-                   "Check for appropriate access to the cloud repository folder"
+                   "Endpoints",
+                   "Web Uploads",
+                   "Email/Webmail",
+                   "All of above"
                    
                 ]
-    },
+    }
 ];
